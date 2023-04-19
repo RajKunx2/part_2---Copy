@@ -1,0 +1,558 @@
+.japan,
+.japan * {
+  box-sizing: border-box;
+}
+.japan {
+  background: #0a0908;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1512px;
+  height: 3562px;
+  position: relative;
+  overflow: hidden;
+}
+.mainjapan {
+  width: 1507px;
+  height: 918.5px;
+  position: static;
+}
+.japan-wallpaper {
+  width: 1507px;
+  height: 917px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.sample-shade-japan {
+  position: absolute;
+  left: 2px;
+  top: 210.5px;
+}
+.japan2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 221.76px "Rokkitt", sans-serif;
+  position: absolute;
+  left: 448px;
+  top: 330px;
+  width: 535px;
+  height: 256px;
+}
+.japanlist {
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 225px;
+  top: 1062px;
+}
+.places-of-japan-grouped {
+  flex-shrink: 0;
+  width: 1041.04px;
+  height: 393.5px;
+  position: static;
+}
+.rectangle-44 {
+  background: rgba(217, 217, 217, 0.23);
+  border-radius: 29.02px;
+  width: 1041.04px;
+  height: 391.5px;
+  position: absolute;
+  left: 7.2px;
+  top: 2px;
+}
+.contentp {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 7.2px;
+  top: 0px;
+}
+.romeo-a-slil9ezjwuc-unsplash-1 {
+  border-radius: 29.02px;
+  flex-shrink: 0;
+  width: 361.11px;
+  height: 391.5px;
+  position: relative;
+}
+.contentplace {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.places-of-japan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 46.12px "Roboto", sans-serif;
+  position: relative;
+  width: 459.75px;
+  height: 54.67px;
+}
+.japan-is-a-country-of-diverse-and-beautiful-places--including-the-bustling-metropolis-of-tokyo--the-rich-cultural-heritage-of-kyoto--the-iconic-mount-fuji--and-the-stunning-natural-landscapes-of-hokkaido--among-others- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 17.29px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: relative;
+  width: 493.41px;
+  height: 138.09px;
+}
+.group-4 {
+  flex-shrink: 0;
+  width: 264.88px;
+  height: 23.1px;
+  position: static;
+}
+.tokyo {
+  color: #ff3d00;
+  text-align: left;
+  font: 500 19.6px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 0px;
+  top: 240.76px;
+  width: 68.7px;
+  height: 23.1px;
+}
+.kyto {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.45px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 115.08px;
+  top: 241.34px;
+  width: 48.44px;
+  height: 21.74px;
+}
+.osaka {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.45px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 197.06px;
+  top: 241.34px;
+  width: 67.82px;
+  height: 21.74px;
+}
+.group-3 {
+  flex-shrink: 0;
+  width: 149px;
+  height: 35px;
+  position: static;
+}
+.rectangle-4 {
+  border-radius: 144.11px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 0.67px;
+  width: 149px;
+  height: 35px;
+  position: absolute;
+  left: 0px;
+  top: 287.86px;
+  box-shadow: 0px 2.31px 14.41px 0px rgba(255, 61, 0, 1);
+}
+.see-more {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12.6px "Roboto", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 296.86px;
+  width: 67px;
+  height: 17px;
+}
+.cuisines-of-japan-grouped {
+  flex-shrink: 0;
+  width: 1048.24px;
+  height: 392.27px;
+  position: static;
+}
+.rectangle-442 {
+  background: rgba(217, 217, 217, 0.23);
+  border-radius: 29.02px;
+  width: 1041.04px;
+  height: 391.5px;
+  position: absolute;
+  left: 7.2px;
+  top: 513.5px;
+}
+.contentc {
+  display: flex;
+  flex-direction: row;
+  gap: 62px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 514.27px;
+}
+.image-1 {
+  border-radius: 29.02px;
+  flex-shrink: 0;
+  width: 361.11px;
+  height: 391.5px;
+  position: relative;
+}
+.contentcusine {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cuisines-of-japan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 46.12px "Roboto", sans-serif;
+  position: relative;
+  width: 489.69px;
+  height: 54px;
+}
+.japanese-cuisine-is-known-for-its-fresh-ingredients--artful-presentation--and-diverse-flavors--popular-dishes-include-sushi--ramen--udon--tempura--yakitori--and-teriyaki--japanese-cuisine-also-features-unique-ingredients-such-as-wasabi--miso--and-seaweed- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 17.29px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: relative;
+  width: 493.41px;
+  height: 138.09px;
+}
+.group-42 {
+  flex-shrink: 0;
+  width: 277.72px;
+  height: 23.1px;
+  position: static;
+}
+.sushi {
+  color: #ff3d00;
+  text-align: left;
+  font: 500 19.6px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 0px;
+  top: 240.09px;
+  width: 68.7px;
+  height: 23.1px;
+}
+.ramen {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.45px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 101.47px;
+  top: 240.77px;
+  width: 75.67px;
+  height: 21.74px;
+}
+.udon {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.45px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 209.9px;
+  top: 241.45px;
+  width: 67.82px;
+  height: 21.74px;
+}
+.group-32 {
+  flex-shrink: 0;
+  width: 152.76px;
+  height: 34.81px;
+  position: static;
+}
+.rectangle-42 {
+  border-radius: 144.11px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 0.67px;
+  width: 152.76px;
+  height: 34.81px;
+  position: absolute;
+  left: 0px;
+  top: 287.19px;
+  box-shadow: 0px 2.31px 14.41px 0px rgba(255, 61, 0, 1);
+}
+.see-more2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12.6px "Roboto", sans-serif;
+  position: absolute;
+  left: 42.76px;
+  top: 296.85px;
+  width: 67px;
+  height: 16px;
+}
+.folklores-of-japan-grouped {
+  flex-shrink: 0;
+  width: 1041.24px;
+  height: 391.75px;
+  position: static;
+}
+.rectangle-443 {
+  background: rgba(217, 217, 217, 0.23);
+  border-radius: 29.02px;
+  width: 1041.04px;
+  height: 391.5px;
+  position: absolute;
+  left: 7.2px;
+  top: 1026.02px;
+}
+.contentf {
+  display: flex;
+  flex-direction: row;
+  gap: 55px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 7px;
+  top: 1025.77px;
+}
+.image-12 {
+  border-radius: 29.02px;
+  flex-shrink: 0;
+  width: 361.11px;
+  height: 391.5px;
+  position: relative;
+}
+.contentfolklore {
+  flex-shrink: 0;
+  width: 602.78px;
+  height: 312.87px;
+  position: static;
+}
+.folklores-of-japan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 46.12px "Roboto", sans-serif;
+  position: absolute;
+  left: 416.11px;
+  top: 39.31px;
+  width: 513.47px;
+  height: 54px;
+}
+.japanese-folklore-is-rich-in-myths--legends--and-supernatural-creatures--popular-stories-include-momotaro-the-peach-boy--the-tale-of-the-samurai-ghost--and-the-story-of-the-koi-fish-that-became-a-dragon--japanese-folklore-also-features-yokai--or-supernatural-beings--such-as-the-kitsune-and-oni- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 17.29px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 419.44px;
+  top: 117.56px;
+  width: 493.41px;
+  height: 138.09px;
+}
+.group-33 {
+  width: 152.76px;
+  height: 34.81px;
+  position: static;
+}
+.rectangle-43 {
+  border-radius: 144.11px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 0.67px;
+  width: 152.76px;
+  height: 34.81px;
+  position: absolute;
+  left: 419.44px;
+  top: 317.37px;
+  box-shadow: 0px 2.31px 14.41px 0px rgba(255, 61, 0, 1);
+}
+.see-more3 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12.6px "Roboto", sans-serif;
+  position: absolute;
+  left: 461.2px;
+  top: 326.81px;
+  width: 69px;
+  height: 16px;
+}
+.group-43 {
+  width: 602.78px;
+  height: 23.1px;
+  position: static;
+}
+.susanoo {
+  color: #ff3d00;
+  text-align: left;
+  font: 500 19.6px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 416.11px;
+  top: 263.7px;
+  width: 108.52px;
+  height: 23.1px;
+}
+.the-bamboo-cutter {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.45px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 557.37px;
+  top: 264.28px;
+  width: 211.05px;
+  height: 21.74px;
+}
+.izanagi-and-izanami {
+  color: #ffffff;
+  text-align: left;
+  font: 700 18.45px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 801.17px;
+  top: 265.06px;
+  width: 217.72px;
+  height: 21.74px;
+}
+.cultures-of-japan {
+  flex-shrink: 0;
+  width: 1041.04px;
+  height: 391.77px;
+  position: static;
+}
+.rectangle-444 {
+  background: rgba(217, 217, 217, 0.23);
+  border-radius: 29.02px;
+  width: 1041.04px;
+  height: 391.5px;
+  position: absolute;
+  left: 7.2px;
+  top: 1537.8px;
+}
+.contentc2 {
+  display: flex;
+  flex-direction: row;
+  gap: 54px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 8.24px;
+  top: 1537.52px;
+}
+.image-19 {
+  border-radius: 29.02px;
+  flex-shrink: 0;
+  width: 361.11px;
+  height: 391.5px;
+  position: relative;
+}
+.contentculture {
+  flex-shrink: 0;
+  width: 497px;
+  height: 312.24px;
+  position: static;
+}
+.cultures-of-japan2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 46.12px "Roboto", sans-serif;
+  position: absolute;
+  left: 415.11px;
+  top: 39.63px;
+  width: 413px;
+  height: 54px;
+}
+.in-publishing-and-graphic-design--lorem-ipsum-is-a-placeholder-text-commonly-used-to-demonstrate-the-visual-form-of-a-document-or-a-typeface-without-relying-on-meaningful-content--lorem-ipsum-may-be-used-as-a-placeholder-before-final-copy-is-available- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 17.29px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 418.69px;
+  top: 117.24px;
+  width: 493.41px;
+  height: 138.09px;
+}
+.group-34 {
+  width: 151px;
+  height: 34.81px;
+  position: static;
+}
+.rectangle-45 {
+  border-radius: 144.11px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 0.67px;
+  width: 151px;
+  height: 34.81px;
+  position: absolute;
+  left: 418.69px;
+  top: 317.06px;
+  box-shadow: 0px 2.31px 14.41px 0px rgba(255, 61, 0, 1);
+}
+.rectangle-45:hover{
+  background-color: #ff3d00;
+}
+.see-more4 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12.6px "Roboto", sans-serif;
+  position: absolute;
+  left: 460.69px;
+  top: 326.47px;
+  width: 67px;
+  height: 16px;
+}
+.group-73 {
+  width: 299.7px;
+  height: 23.1px;
+  position: static;
+}
+.sad- {
+  color: #ff3d00;
+  text-align: left;
+  font: 500 19.6px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 418.69px;
+  top: 263.07px;
+  width: 68.7px;
+  height: 23.1px;
+}
+.shod- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.45px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 520.16px;
+  top: 263.75px;
+  width: 75.67px;
+  height: 21.74px;
+}
+.hanami {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.45px "Roboto", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 628.59px;
+  top: 264.43px;
+  width: 89.8px;
+  height: 21.74px;
+}
+
+#places_div {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}

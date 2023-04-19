@@ -1,0 +1,485 @@
+.cultures,
+.cultures * {
+  box-sizing: border-box;
+}
+.cultures {
+  background: #200b18;
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 3614px;
+  position: relative;
+  overflow: hidden;
+}
+.maincultures {
+  flex-shrink: 0;
+  width: 1538px;
+  height: 896px;
+  position: static;
+}
+.image-2 {
+  width: 1538px;
+  height: 881px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.cultures2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 220px "Rokkitt", sans-serif;
+  position: absolute;
+  left: 367px;
+  top: 315px;
+}
+.rectangle-7 {
+  position: absolute;
+  left: 13px;
+  top: 492px;
+  overflow: visible;
+}
+.culturemainlist {
+  padding: 20px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sado {
+  display: flex;
+  flex-direction: row;
+  gap: 112px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.scrol {
+  flex-shrink: 0;
+  width: 0px;
+  height: 319.43px;
+  position: static;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4.43px 0 0 0;
+  opacity: 0.800000011920929;
+  width: 319.43px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 44.71px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.info {
+  flex-shrink: 0;
+  width: 936.42px;
+  height: 408.85px;
+  position: static;
+}
+.group-77 {
+  width: 133.78px;
+  height: 67.51px;
+  position: static;
+}
+.frame-1 {
+  border-radius: 37.64px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2.21px;
+  padding: 10.33px 36.9px 10.33px 36.9px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.38px;
+  align-items: center;
+  justify-content: center;
+  width: 133.78px;
+  height: 45.59px;
+  position: absolute;
+  left: 754.35px;
+  top: 329.97px;
+  box-shadow: 0px 2.95px 2.95px 0px rgba(255, 255, 255, 0.25);
+}
+.vr {
+  position: absolute;
+  left: 783.86px;
+  top: 318.57px;
+  overflow: visible;
+}
+.sad- {
+  color: #ffffff;
+  text-align: left;
+  font: 700 50.42px "Roboto", sans-serif;
+  position: absolute;
+  left: 546.69px;
+  top: 21.63px;
+  width: 138.71px;
+}
+.sad---also-known-as-the-japanese-tea-ceremony--is-a-traditional-cultural-activity-that-involves-the-ceremonial-preparation-and-presentation-of-powdered-green-tea--it-has-deep-roots-in-japanese-history-and-is-often-seen-as-a-symbol-of-japanese-culture--emphasizing-the-principles-of-harmony--respect--purity--and-tranquility- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.91px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 549.73px;
+  top: 106.08px;
+  width: 498.69px;
+  height: 150px;
+}
+.group-3 {
+  width: 143.54px;
+  height: 37.81px;
+  position: static;
+}
+
+.rectangle-4 {
+  border-radius: 157.56px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 0.92px;
+  width: 143.54px;
+  height: 37.81px;
+  position: absolute;
+  left: 549.73px;
+  top: 334.86px;
+  box-shadow: 0px 2.52px 15.76px 0px rgba(255, 61, 0, 1);
+}
+.rectangle-4:hover{
+  background-color: #ff3d00;
+}
+.see-more {
+  color: #ffffff;
+  text-align: left;
+  font: 600 13.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 583.65px;
+  top: 344.94px;
+  width: 74.54px;
+}
+
+.image-1 {
+  border-radius: 22.14px 0px 0px 22.14px;
+  width: 340.05px;
+  height: 408.85px;
+  position: absolute;
+  left: 112px;
+  top: 0px;
+}
+.hanami {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.info2 {
+  flex-shrink: 0;
+  width: 1038.85px;
+  height: 408.85px;
+  position: static;
+}
+.hanami2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 50.42px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 13.51px;
+  width: 220.27px;
+}
+.hanami-is-a-japanese-tradition-of-enjoying-the-beauty-of-cherry-blossom-trees--people-often-have-picnics-and-parties-under-the-blooming-trees-during-the-spring-season--it-is-a-symbol-of-the-transience-of-life-and-is-deeply-ingrained-in-japanese-culture--representing-renewal-and-new-beginnings- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.91px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 2.95px;
+  top: 97.96px;
+  width: 484.1px;
+  height: 150px;
+}
+.group-32 {
+  width: 154px;
+  height: 37.81px;
+  position: static;
+}
+.rectangle-42 {
+  border-radius: 157.56px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 0.92px;
+  width: 154px;
+  height: 37.81px;
+  position: absolute;
+  left: 26.38px;
+  top: 355.15px;
+  box-shadow: 0px 2.52px 15.76px 0px rgba(255, 61, 0, 1);
+}
+.see-more2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 13.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 66.38px;
+  top: 364.81px;
+  width: 74px;
+}
+.image-12 {
+  border-radius: 0px 22.14px 22.14px 0px;
+  width: 330.1px;
+  height: 408.85px;
+  position: absolute;
+  left: 605.49px;
+  top: 0px;
+}
+.scrol2 {
+  width: 0px;
+  height: 319.43px;
+  position: static;
+}
+.line-12 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4.43px 0 0 0;
+  opacity: 0.800000011920929;
+  width: 319.43px;
+  height: 0px;
+  position: absolute;
+  left: 1038.85px;
+  top: 45.76px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.group-75 {
+  width: 133.78px;
+  height: 67.51px;
+  position: static;
+}
+.frame-12 {
+  border-radius: 37.64px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2.21px;
+  padding: 10.33px 36.9px 10.33px 36.9px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.38px;
+  align-items: center;
+  justify-content: center;
+  width: 133.78px;
+  height: 45.59px;
+  position: absolute;
+  left: 216.95px;
+  top: 351.7px;
+  box-shadow: 0px 2.95px 2.95px 0px rgba(255, 255, 255, 0.25);
+}
+.vr2 {
+  position: absolute;
+  left: 246.46px;
+  top: 340.3px;
+  overflow: visible;
+}
+.shodo {
+  display: flex;
+  flex-direction: row;
+  gap: 115px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.shod- {
+  color: #ffffff;
+  text-align: left;
+  font: 700 50.42px "Roboto", sans-serif;
+  position: absolute;
+  left: 549.69px;
+  top: 21.63px;
+  width: 174.9px;
+}
+.shod--is-the-japanese-art-of-calligraphy--which-involves-the-creation-of-beautiful-and-balanced-characters-using-a-brush-and-ink--it-is-a-traditional-cultural-practice-that-has-been-around-for-centuries-and-is-often-viewed-as-a-form-of-meditation--shodo-is-also-considered-a-form-of-art-and-is-used-in-various-settings-such-as-buddhist-temples-and-traditional-japanese-restaurants- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.91px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 552.73px;
+  top: 106.08px;
+  width: 498.69px;
+  height: 150px;
+}
+.group-33 {
+  width: 144px;
+  height: 37.81px;
+  position: static;
+}
+.rectangle-43 {
+  border-radius: 157.56px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 0.92px;
+  width: 144px;
+  height: 37.81px;
+  position: absolute;
+  left: 549.85px;
+  top: 334.86px;
+  box-shadow: 0px 2.52px 15.76px 0px rgba(255, 61, 0, 1);
+}
+.see-more3 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 13.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 583.88px;
+  top: 344.94px;
+  width: 74.78px;
+}
+.image-13 {
+  border-radius: 22.14px 0px 0px 22.14px;
+  width: 340.05px;
+  height: 408.85px;
+  position: absolute;
+  left: 115px;
+  top: 0px;
+}
+.group-74 {
+  width: 133.78px;
+  height: 67.51px;
+  position: static;
+}
+.frame-13 {
+  border-radius: 37.64px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2.21px;
+  padding: 10.33px 36.9px 10.33px 36.9px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.38px;
+  align-items: center;
+  justify-content: center;
+  width: 133.78px;
+  height: 45.59px;
+  position: absolute;
+  left: 757.6px;
+  top: 331.44px;
+  box-shadow: 0px 2.95px 2.95px 0px rgba(255, 255, 255, 0.25);
+}
+.vr3 {
+  position: absolute;
+  left: 787.11px;
+  top: 320.04px;
+  overflow: visible;
+}
+.ikebana {
+  display: flex;
+  flex-direction: row;
+  gap: 103px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.info3 {
+  flex-shrink: 0;
+  width: 935.59px;
+  height: 408.85px;
+  position: static;
+}
+.ikebana2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 50.42px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 13.51px;
+  width: 220.27px;
+}
+.ikebana-is-the-japanese-art-of-flower-arrangement--which-emphasizes-simplicity--asymmetry--and-the-use-of-natural-materials--it-is-a-traditional-cultural-practice-that-has-been-around-for-centuries-and-is-deeply-ingrained-in-japanese-culture--ikebana-is-often-seen-as-a-form-of-meditation-and-is-widely-practiced-in-japan-as-well-as-around-the-world-as-a-way-to-bring-beauty-and-harmony-into-the-home-or-workplace- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18.91px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 2.95px;
+  top: 97.96px;
+  width: 484.1px;
+  height: 150px;
+}
+.group-34 {
+  width: 154px;
+  height: 38px;
+  position: static;
+}
+.rectangle-44 {
+  border-radius: 157.56px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 0.92px;
+  width: 154px;
+  height: 38px;
+  position: absolute;
+  left: 16.85px;
+  top: 355.24px;
+  box-shadow: 0px 2.52px 15.76px 0px rgba(255, 61, 0, 1);
+}
+.see-more4 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 13.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 56.85px;
+  top: 365.24px;
+  width: 73px;
+}
+.group-76 {
+  width: 133.78px;
+  height: 67.51px;
+  position: static;
+}
+.frame-14 {
+  border-radius: 37.64px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2.21px;
+  padding: 10.33px 36.9px 10.33px 36.9px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.38px;
+  align-items: center;
+  justify-content: center;
+  width: 133.78px;
+  height: 45.59px;
+  position: absolute;
+  left: 207.41px;
+  top: 351.7px;
+  box-shadow: 0px 2.95px 2.95px 0px rgba(255, 255, 255, 0.25);
+}
+.vr4 {
+  position: absolute;
+  left: 236.92px;
+  top: 340.3px;
+  overflow: visible;
+}
+.line-13 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4.43px 0 0 0;
+  opacity: 0.800000011920929;
+  width: 319.43px;
+  height: 0px;
+  position: absolute;
+  left: 1038.59px;
+  top: 44.71px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}

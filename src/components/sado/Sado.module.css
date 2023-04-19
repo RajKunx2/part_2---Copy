@@ -1,0 +1,222 @@
+.sado,
+.sado * {
+  box-sizing: border-box;
+}
+.sado {
+  background: #4e3934;
+  width: 1512px;
+  height: 2491px;
+  position: relative;
+  overflow: hidden;
+}
+.mainsado-w-o-line {
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mainsado {
+  flex-shrink: 0;
+  width: 1512px;
+  height: 842px;
+  position: static;
+}
+.imm {
+  width: 1512px;
+  height: 839px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.shade {
+  position: absolute;
+  left: 0px;
+  top: 501px;
+  overflow: visible;
+}
+.sad- {
+  color: #ffffff;
+  text-align: left;
+  font: 700 220px "Rokkitt", sans-serif;
+  position: absolute;
+  left: 532.2px;
+  top: 267.7px;
+}
+.contents {
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.contents-w-o-scroll {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sado--also-known-as-chanoyu-or-the-japanese-tea-ceremony--is-a-traditional-japanese-cultural-activity-that-involves-the-ceremonial-preparation-and-presentation-of-matcha--a-powdered-green-tea--the-sado-process-is-deeply-rooted-in-japanese-culture-and-has-been-practiced-for-centuries--it-emphasizes-harmony--respect--purity--and-tranquillity- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20.5px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: relative;
+  width: 948.28px;
+  height: 108.99px;
+}
+.process {
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.process2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 54.65px "Roboto", sans-serif;
+  position: relative;
+}
+.process-content {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.purification--the-host-cleans-and-purifies-the-tea-utensils-and-the-tea-room--including-the-hearth--tea-container--tea-bowl--and-other-utensils--gathering--the-host-gathers-the-necessary-utensils--including-the-tea-container--natsume---tea-scoop--chashaku---tea-whisk--chasen---and-tea-bowl--chawan---preparation--the-host-heats-water-in-a-kettle-and-prepares-the-tea-by-scooping-the-powdered-tea-from-the-tea-container-into-the-tea-bowl--mixing--the-host-adds-hot-water-to-the-tea-bowl-and-then-mixes-the-tea-with-the-tea-whisk-until-it-becomes-frothy--serving--the-host-presents-the-tea-bowl-to-the-first-guest--who-bows-to-the-host--receives-the-bowl--and-drinks-the-tea--the-guest-then-wipes-the-rim-of-the-bowl-with-a-cloth-and-passes-it-to-the-next-guest--and-the-process-is-repeated-until-all-guests-have-had-a-drink--closing--the-host-cleans-and-returns-the-utensils-to-their-proper-places--and-the-guests-express-their-gratitude-to-the-host-for-the-ceremony--it-s-worth-noting-that-there-are-many-variations-of-the-sado-tea-ceremony--and-the-specific-steps-and-techniques-may-differ-depending-on-the-school-or-style-of-sado-practiced- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: relative;
+  width: 948px;
+  height: 526px;
+}
+.sado-is-not-just-a-simple-act-of-drinking-tea--but-it-is-an-art-form-and-a-way-of-life-that-promotes-harmony--respect--and-mindfulness--it-is-a-beautiful-expression-of-japanese-culture-and-values- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20.5px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: relative;
+  width: 892px;
+  height: 82px;
+}
+.watch-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 138px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.watch-a-video {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 2.4px;
+  padding: 11.2px 40px 11.2px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 195px;
+  height: 49.42px;
+  position: relative;
+  box-shadow: 0px 3.2px 3.2px 0px rgba(255, 255, 255, 0.25);
+}
+.frame-1:hover{
+  background-color: #ff3d00;
+  text-decoration: none;
+}
+.watch-a-video2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13.9px "Roboto", sans-serif;
+  position: relative;
+}
+.watch-in-vr {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-12 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #ff3d00;
+  border-width: 2.4px;
+  padding: 11.2px 40px 11.2px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 191.41px;
+  height: 49.42px;
+  position: relative;
+  box-shadow: 0px 3.2px 3.2px 0px rgba(255, 255, 255, 0.25);
+}
+.frame-12:hover{
+  background-color: #ff3d00;
+}
+.watch-in-vr2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13.9px "Roboto", sans-serif;
+  position: relative;
+}
+
+.scrol {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-end;
+  justify-content: flex-end;
+  position: absolute;
+  left: 1326px;
+  top: 1465px;
+  transform-origin: 0 0;
+  transform: rotate(-0.153deg) scale(1, 1);
+}
+.line-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4.8px 0 0 0;
+  opacity: 0.800000011920929;
+  flex-shrink: 0;
+  width: 365.34px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}

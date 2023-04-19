@@ -1,0 +1,232 @@
+.signup,
+.signup * {
+  box-sizing: border-box;
+}
+.signup {
+  background: #040825;
+  width: 1512px;
+  height: 1482px;
+  position: relative;
+  overflow: hidden;
+}
+.content2 {
+  width: 358.75px;
+  height: 103px;
+  position: static;
+}
+.don-t-have-an-account- {
+  color: rgba(255, 255, 255, 0.32);
+  text-align: left;
+  font: 600 21px "Montserrat", sans-serif;
+  position: absolute;
+  left: 767.38px;
+  top: 276.5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.log-in {
+  color: #7575b1;
+  text-align: left;
+  font: 600 21px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1036px;
+  top: 276.5px;
+  width: 87.5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sign-up {
+  color: #7575b1;
+  text-align: left;
+  font: 600 87.5px/100.9% "Founders Grotesk", sans-serif;
+  position: absolute;
+  left: 764.75px;
+  top: 199.5px;
+  width: 329.88px;
+  height: 55.12px;
+}
+.rectangle-16 {
+  background: radial-gradient(
+    closest-side,
+    rgba(17, 106, 155, 0.17) 0%,
+    rgba(14, 13, 38, 0.11) 79.40335273742676%
+  );
+  width: 1512px;
+  height: 977.38px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 764.75px;
+  top: 361px;
+}
+.input1 {
+  border-radius: 8.75px;
+  border-style: solid;
+  border-color: rgba(217, 217, 217, 0.32);
+  border-width: 2.62px;
+  padding: 19px 26px 19px 26px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 572px;
+  position: relative;
+}
+.example-gmail-com {
+  color: rgba(255, 255, 255, 0.32);
+  text-align: left;
+  font: 600 17.5px "Montserrat", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input2 {
+  border-radius: 8.75px;
+  border-style: solid;
+  border-color: rgba(217, 217, 217, 0.32);
+  border-width: 2.62px;
+  padding: 19px 26px 19px 26px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 572px;
+  position: relative;
+}
+.enter-password {
+  color: rgba(255, 255, 255, 0.32);
+  text-align: left;
+  font: 600 17.5px "Montserrat", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.forgot-password- {
+  color: #7575b1;
+  text-align: center;
+  font: 600 17.5px "Montserrat", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-button {
+  background: #7575b1;
+  border-radius: 8.75px;
+  padding: 8.75px 24.5px 8.75px 24.5px;
+  display: flex;
+  flex-direction: row;
+  gap: 8.75px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 572.25px;
+  height: 60.38px;
+  position: relative;
+}
+.signup2 {
+  color: #becaca;
+  text-align: center;
+  font: 700 19.25px "Montserrat", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.or {
+  flex-shrink: 0;
+  width: 572.25px;
+  height: 26px;
+  position: static;
+}
+.rectangle-53 {
+  background: rgba(217, 217, 217, 0.32);
+  width: 264.25px;
+  height: 0.88px;
+  position: absolute;
+  left: 0px;
+  top: 316.5px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.rectangle-54 {
+  background: rgba(217, 217, 217, 0.32);
+  width: 264.25px;
+  height: 0.88px;
+  position: absolute;
+  left: 308px;
+  top: 317.38px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.or2 {
+  color: linear-gradient(
+      to left,
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.2)
+    ),
+    linear-gradient(to left, #ffffff, #ffffff);
+  text-align: center;
+  font: 600 21px "Montserrat", sans-serif;
+  position: absolute;
+  left: 272.12px;
+  top: 303.38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.google {
+  border-radius: 8.75px;
+  border-style: solid;
+  border-color: #7575b1;
+  border-width: 2.62px;
+  padding: 8.75px 24.5px 8.75px 24.5px;
+  display: flex;
+  flex-direction: row;
+  gap: 8.75px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 572.25px;
+  height: 60.38px;
+  position: relative;
+}
+.image-9 {
+  flex-shrink: 0;
+  width: 29.75px;
+  height: 37.62px;
+  position: relative;
+}
+.signup-with-google {
+  color: #becaca;
+  text-align: center;
+  font: 700 19.25px "Montserrat", sans-serif;
+  position: relative;
+  width: 230.12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.illustration-1 {
+  width: 773px;
+  height: 567px;
+  position: absolute;
+  left: -17px;
+  top: 149px;
+}

@@ -1,0 +1,1043 @@
+.log-in,
+.log-in * {
+  box-sizing: border-box;
+}
+.loginbutton:hover{
+  background-color:#ffffff;
+}
+.log-in {
+  background: #040825;
+  width: 1512px;
+  height: 1482px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-16 {
+  background: radial-gradient(
+    closest-side,
+    rgba(17, 106, 155, 0.17) 0%,
+    rgba(14, 13, 38, 0.11) 79.40335273742676%
+  );
+  width: 1514px;
+  height: 977.38px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin:0px;
+}
+.frame-14 {
+  border-radius: 8.75px;
+  border-style: solid;
+  border-color: rgba(217, 217, 217, 0.32);
+  border-width: 2.62px;
+  padding: 8.75px 24.5px 8.75px 24.5px;
+  width: 572.25px;
+  height: 60.38px;
+  position: absolute;
+  left: 764.75px;
+  top: 360.5px;
+  background-color:#061636;
+  color: #ffffff;
+  font: 600 17.5px "Montserrat", sans-serif;
+}
+.example-gmail-com {
+  color: rgba(255, 255, 255, 0.32);
+  text-align: left;
+  font: 600 17.5px "Montserrat", sans-serif;
+  position: absolute;
+  left: 26.25px;
+  top: 19.25px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.don-t-have-an-account- {
+  color: rgba(255, 255, 255, 0.32);
+  text-align: left;
+  font: 600 21px "Montserrat", sans-serif;
+  position: absolute;
+  left: 767.38px;
+  top: 276.5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sign-up {
+  color: #7575b1;
+  text-align: left;
+  font: 600 21px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1036px;
+  top: 276.5px;
+  width: 87.5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-18 {
+  border-radius: 8.75px;
+  border-style: solid;
+  border-color: rgba(217, 217, 217, 0.32);
+  border-width: 2.62px;
+  padding: 8.75px 24.5px 8.75px 24.5px;
+  width: 572.25px;
+  height: 60.38px;
+  position: absolute;
+  left: 764.75px;
+  top: 451.5px;
+  background-color:#061636;
+  color: #ffffff;
+  font: 600 17.5px "Montserrat", sans-serif;
+}
+
+.enter-password {
+  color: rgba(255, 255, 255, 0.32);
+  text-align: left;
+  font: 600 17.5px "Montserrat", sans-serif;
+  position: absolute;
+  left: 26.25px;
+  top: 19.25px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.forgot-password- {
+  color: #7575b1;
+  text-align: center;
+  font: 600 17.5px "Montserrat", sans-serif;
+  position: absolute;
+  left: 967.75px;
+  top: 534.62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-22 {
+  background: #7575b1;
+  border-radius: 8.75px;
+  padding: 8.75px 24.5px 8.75px 24.5px;
+  display: flex;
+  flex-direction: row;
+  gap: 8.75px;
+  align-items: center;
+  justify-content: center;
+  width: 572.25px;
+  height: 60.38px;
+  position: absolute;
+  left: 764.75px;
+  top: 577.5px;
+}
+.frame-22:hover{
+  border: solid;
+  border-color:#7575b1;
+  border-width: 3px;
+  background-color: #061636;
+}
+.login {
+  color: #becaca;
+  text-align: center;
+  font: 700 19.25px "Montserrat", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login2 {
+  color: #7575b1;
+  text-align: left;
+  font: 600 87.5px/100.9% "Founders Grotesk", sans-serif;
+  position: absolute;
+  left: 764.75px;
+  top: 199.5px;
+  width: 329.88px;
+  height: 55.12px;
+}
+.rectangle-53 {
+  background: rgba(217, 217, 217, 0.32);
+  width: 264.25px;
+  height: 0.88px;
+  position: absolute;
+  left: 767.38px;
+  top: 677.25px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.rectangle-54 {
+  background: rgba(217, 217, 217, 0.32);
+  width: 264.25px;
+  height: 0.88px;
+  position: absolute;
+  left: 1075.38px;
+  top: 678.12px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.frame-23 {
+  border-radius: 8.75px;
+  border-style: solid;
+  border-color: #7575b1;
+  border-width: 2.62px;
+  padding: 8.75px 24.5px 8.75px 24.5px;
+  display: flex;
+  flex-direction: row;
+  gap: 8.75px;
+  align-items: center;
+  justify-content: center;
+  width: 572.25px;
+  height: 60.38px;
+  position: absolute;
+  left: 767.38px;
+  top: 717.5px;
+}
+.image-9 {
+  flex-shrink: 0;
+  width: 29.75px;
+  height: 37.62px;
+  position: relative;
+}
+.login-with-google {
+  color: #becaca;
+  text-align: center;
+  font: 700 19.25px "Montserrat", sans-serif;
+  position: relative;
+  width: 230.12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.or {
+  color: rgba(255,255,255,0.8);
+  text-align: center;
+  font: 600 21px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1039.5px;
+  top: 664.12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-60 {
+  width: 772.48px;
+  height: 567px;
+  position: static;
+}
+.dazzle-messaging-1 {
+  width: 772.48px;
+  height: 567px;
+  position: absolute;
+  left: 18.38px;
+  top: 168px;
+  overflow: hidden;
+}
+.group {
+  width: 374.67px;
+  height: 17.91px;
+  position: static;
+}
+.frame {
+  position: absolute;
+  left: 209.73px;
+  top: 500.06px;
+  overflow: visible;
+}
+.group2 {
+  width: 432.89px;
+  height: 346.31px;
+  position: static;
+}
+.frame2 {
+  width: 432.89px;
+  height: 346.31px;
+  position: absolute;
+  left: 158.97px;
+  top: 164.94px;
+  overflow: hidden;
+}
+.vector2 {
+  position: absolute;
+  left: 177.49px;
+  top: 1.13px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 176.4px;
+  top: 0px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 184.62px;
+  top: 1.12px;
+  overflow: visible;
+}
+.vector5 {
+  position: absolute;
+  left: 183.54px;
+  top: 0px;
+  overflow: visible;
+}
+.vector6 {
+  position: absolute;
+  left: 187.93px;
+  top: 1.12px;
+  overflow: visible;
+}
+.vector7 {
+  position: absolute;
+  left: 186.85px;
+  top: 0px;
+  overflow: visible;
+}
+.vector8 {
+  position: absolute;
+  left: 212.52px;
+  top: 8.66px;
+  overflow: visible;
+}
+.vector9 {
+  position: absolute;
+  left: 202.4px;
+  top: 7.8px;
+  overflow: visible;
+}
+.vector10 {
+  position: absolute;
+  left: 204.7px;
+  top: 29.02px;
+  overflow: visible;
+}
+.vector11 {
+  position: absolute;
+  left: 203.69px;
+  top: 27.91px;
+  overflow: visible;
+}
+.vector12 {
+  position: absolute;
+  left: 93.24px;
+  top: 41.19px;
+  overflow: visible;
+}
+.vector13 {
+  position: absolute;
+  left: 92.11px;
+  top: 40.06px;
+  overflow: visible;
+}
+.vector14 {
+  position: absolute;
+  left: 37.85px;
+  top: 85.22px;
+  overflow: visible;
+}
+.vector15 {
+  position: absolute;
+  left: 36.76px;
+  top: 84.09px;
+  overflow: visible;
+}
+.vector16 {
+  position: absolute;
+  left: 287.2px;
+  top: 209.69px;
+  overflow: visible;
+}
+.vector17 {
+  position: absolute;
+  left: 286.5px;
+  top: 208.56px;
+  overflow: visible;
+}
+.vector18 {
+  position: absolute;
+  left: 287.2px;
+  top: 217.9px;
+  overflow: visible;
+}
+.vector19 {
+  position: absolute;
+  left: 287.2px;
+  top: 217.9px;
+  overflow: visible;
+}
+.vector20 {
+  position: absolute;
+  left: 286.07px;
+  top: 216.79px;
+  overflow: visible;
+}
+.vector21 {
+  position: absolute;
+  left: 287.2px;
+  top: 217.91px;
+  overflow: visible;
+}
+.vector22 {
+  position: absolute;
+  left: 286.08px;
+  top: 216.8px;
+  overflow: visible;
+}
+.vector23 {
+  position: absolute;
+  left: 287.09px;
+  top: 70.36px;
+  overflow: visible;
+}
+.vector24 {
+  position: absolute;
+  left: 285.96px;
+  top: 69.25px;
+  overflow: visible;
+}
+.vector25 {
+  position: absolute;
+  left: 287.38px;
+  top: 270.76px;
+  overflow: visible;
+}
+.vector26 {
+  position: absolute;
+  left: 286.25px;
+  top: 269.69px;
+  overflow: visible;
+}
+.vector27 {
+  position: absolute;
+  left: 287.39px;
+  top: 327.99px;
+  overflow: visible;
+}
+.vector28 {
+  position: absolute;
+  left: 286.25px;
+  top: 326.86px;
+  overflow: visible;
+}
+.vector29 {
+  position: absolute;
+  left: 352.02px;
+  top: 278.76px;
+  overflow: visible;
+}
+.vector30 {
+  position: absolute;
+  left: 350.89px;
+  top: 277.71px;
+  overflow: visible;
+}
+.vector31 {
+  position: absolute;
+  left: 379.67px;
+  top: 293.09px;
+  overflow: visible;
+}
+.vector32 {
+  position: absolute;
+  left: 378.53px;
+  top: 292.06px;
+  overflow: visible;
+}
+.vector33 {
+  position: absolute;
+  left: 122.63px;
+  top: 268.3px;
+  overflow: visible;
+}
+.vector34 {
+  position: absolute;
+  left: 122.63px;
+  top: 268.3px;
+  overflow: visible;
+}
+.group3 {
+  position: absolute;
+  left: 121.5px;
+  top: 267.2px;
+  overflow: visible;
+}
+.vector39 {
+  position: absolute;
+  left: 230.04px;
+  top: 270.38px;
+  overflow: visible;
+}
+.vector40 {
+  position: absolute;
+  left: 229.22px;
+  top: 269.35px;
+  overflow: visible;
+}
+.vector41 {
+  position: absolute;
+  left: 246.38px;
+  top: 263.92px;
+  overflow: visible;
+}
+.vector42 {
+  position: absolute;
+  left: 245.9px;
+  top: 262.79px;
+  overflow: visible;
+}
+.vector43 {
+  position: absolute;
+  left: 254.17px;
+  top: 308.36px;
+  overflow: visible;
+}
+.vector44 {
+  position: absolute;
+  left: 253.07px;
+  top: 307.24px;
+  overflow: visible;
+}
+.vector45 {
+  position: absolute;
+  left: 280.07px;
+  top: 315.86px;
+  overflow: visible;
+}
+.vector46 {
+  position: absolute;
+  left: 279px;
+  top: 314.74px;
+  overflow: visible;
+}
+.vector47 {
+  position: absolute;
+  left: 1.13px;
+  top: 225.64px;
+  overflow: visible;
+}
+.vector48 {
+  position: absolute;
+  left: 0px;
+  top: 224.59px;
+  overflow: visible;
+}
+.vector49 {
+  position: absolute;
+  left: 21.11px;
+  top: 227.17px;
+  overflow: visible;
+}
+.vector50 {
+  position: absolute;
+  left: 20.04px;
+  top: 109.05px;
+  overflow: visible;
+}
+.vector51 {
+  position: absolute;
+  left: 186.05px;
+  top: 107.93px;
+  overflow: visible;
+}
+.vector52 {
+  position: absolute;
+  left: 192.46px;
+  top: 109.39px;
+  overflow: visible;
+}
+.vector53 {
+  position: absolute;
+  left: 191.33px;
+  top: 108.26px;
+  overflow: visible;
+}
+.vector54 {
+  position: absolute;
+  left: 229.8px;
+  top: 129.91px;
+  transform: translate(1.12px, -6.22px);
+  overflow: visible;
+}
+.vector55 {
+  position: absolute;
+  left: 229.79px;
+  top: 122.59px;
+  overflow: visible;
+}
+.vector56 {
+  position: absolute;
+  left: 19.39px;
+  top: 113.89px;
+  overflow: visible;
+}
+.vector57 {
+  position: absolute;
+  left: 18.25px;
+  top: 112.78px;
+  overflow: visible;
+}
+.vector58 {
+  position: absolute;
+  left: 224.24px;
+  top: 154.14px;
+  overflow: visible;
+}
+.vector59 {
+  position: absolute;
+  left: 224.16px;
+  top: 153.02px;
+  overflow: visible;
+}
+.vector60 {
+  position: absolute;
+  left: 221.82px;
+  top: 168.35px;
+  overflow: visible;
+}
+.vector61 {
+  position: absolute;
+  left: 8.34px;
+  top: 136.72px;
+  overflow: visible;
+}
+.vector62 {
+  position: absolute;
+  left: 7.21px;
+  top: 135.6px;
+  overflow: visible;
+}
+.vector63 {
+  position: absolute;
+  left: 9.01px;
+  top: 38.77px;
+  overflow: visible;
+}
+.vector64 {
+  position: absolute;
+  left: 8.06px;
+  top: 37.65px;
+  overflow: visible;
+}
+.vector65 {
+  position: absolute;
+  left: 346.71px;
+  top: 66.88px;
+  overflow: visible;
+}
+.vector66 {
+  position: absolute;
+  left: 345.58px;
+  top: 65.77px;
+  overflow: visible;
+}
+.vector67 {
+  position: absolute;
+  left: 342.59px;
+  top: 114.72px;
+  overflow: visible;
+}
+.vector68 {
+  position: absolute;
+  left: 341.46px;
+  top: 113.6px;
+  overflow: visible;
+}
+.vector69 {
+  position: absolute;
+  left: 340.4px;
+  top: 99.54px;
+  overflow: visible;
+}
+.vector70 {
+  position: absolute;
+  left: 339.27px;
+  top: 98.41px;
+  overflow: visible;
+}
+.vector71 {
+  position: absolute;
+  left: 340.67px;
+  top: 84.83px;
+  overflow: visible;
+}
+.vector72 {
+  position: absolute;
+  left: 339.52px;
+  top: 83.71px;
+  overflow: visible;
+}
+.group4 {
+  width: 213.46px;
+  height: 205.25px;
+  position: static;
+}
+.frame3 {
+  width: 213.46px;
+  height: 205.25px;
+  position: absolute;
+  left: 394.08px;
+  top: 63.44px;
+  overflow: hidden;
+}
+.group5 {
+  position: absolute;
+  left: 0px;
+  top: 48.35px;
+  overflow: visible;
+}
+.vector75 {
+  position: absolute;
+  left: 17.14px;
+  top: 49.99px;
+  overflow: visible;
+}
+.vector76 {
+  position: absolute;
+  left: 16.09px;
+  top: 49.02px;
+  overflow: visible;
+}
+.vector77 {
+  position: absolute;
+  left: 34.42px;
+  top: 71.07px;
+  overflow: visible;
+}
+.vector78 {
+  position: absolute;
+  left: 33.58px;
+  top: 70.37px;
+  overflow: visible;
+}
+.vector79 {
+  position: absolute;
+  left: 101.61px;
+  top: 0.64px;
+  overflow: visible;
+}
+.vector80 {
+  position: absolute;
+  left: 100.53px;
+  top: 0px;
+  overflow: visible;
+}
+.vector81 {
+  position: absolute;
+  left: 111.58px;
+  top: 27.04px;
+  overflow: visible;
+}
+.vector82 {
+  position: absolute;
+  left: 110.54px;
+  top: 26.72px;
+  overflow: visible;
+}
+.vector83 {
+  position: absolute;
+  left: 146.86px;
+  top: 66.65px;
+  overflow: visible;
+}
+.vector84 {
+  position: absolute;
+  left: 146.42px;
+  top: 65.66px;
+  overflow: visible;
+}
+.vector85 {
+  position: absolute;
+  left: 173.6px;
+  top: 91.52px;
+  overflow: visible;
+}
+.vector86 {
+  position: absolute;
+  left: 172.82px;
+  top: 90.74px;
+  overflow: visible;
+}
+.group6 {
+  width: 17.17px;
+  height: 17.91px;
+  position: static;
+}
+.frame4 {
+  position: absolute;
+  left: 638.14px;
+  top: 432.89px;
+  overflow: visible;
+}
+.group7 {
+  width: 17.91px;
+  height: 19.41px;
+  position: static;
+}
+.frame5 {
+  position: absolute;
+  left: 663.51px;
+  top: 476.18px;
+  overflow: visible;
+}
+.group8 {
+  width: 17.91px;
+  height: 20.15px;
+  position: static;
+}
+.frame6 {
+  position: absolute;
+  left: 157.48px;
+  top: 195.55px;
+  overflow: visible;
+}
+.group9 {
+  width: 32.84px;
+  height: 39.56px;
+  position: static;
+}
+.frame7 {
+  position: absolute;
+  left: 137.21px;
+  top: 257.29px;
+  transform: translate(-38.56px, -5.08px);
+  overflow: visible;
+}
+.group10 {
+  width: 44.78px;
+  height: 56.72px;
+  position: static;
+}
+.frame8 {
+  position: absolute;
+  left: 104.49px;
+  top: 294.81px;
+  overflow: visible;
+}
+.frame9 {
+  position: absolute;
+  left: 584.92px;
+  top: 476.79px;
+  transform: translate(0px, -44.63px);
+  overflow: visible;
+}
+.group11 {
+  width: 89.56px;
+  height: 87.32px;
+  position: static;
+}
+.frame10 {
+  position: absolute;
+  left: 573.03px;
+  top: 288.99px;
+  transform: translate(0px, -38.22px);
+  overflow: visible;
+}
+.frame11 {
+  position: absolute;
+  left: 37.15px;
+  top: 435.28px;
+  transform: translate(0px, -38.22px);
+  overflow: visible;
+}
+.group12 {
+  width: 45.53px;
+  height: 45.53px;
+  position: static;
+}
+.frame12 {
+  position: absolute;
+  left: 677.69px;
+  top: 375.42px;
+  overflow: visible;
+}
+.footer {
+  width: 1512px;
+  height: 450.06px;
+  position: absolute;
+  left: 0px;
+  top: 1035px;
+}
+.footer2 {
+  width: 1512px;
+  height: 450.06px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-65 {
+  width: 1512px;
+  height: 450.06px;
+  position: static;
+}
+.rectangle-142 {
+  background: rgba(137, 137, 137, 0.5);
+  width: 1512px;
+  height: 450.06px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about-us {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 677px;
+  top: 117.98px;
+  width: 164.46px;
+}
+.privacy-policy {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 677px;
+  top: 161.72px;
+  width: 164.46px;
+}
+.terms---conditions {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 677px;
+  top: 205.46px;
+  width: 212.57px;
+}
+.advertise-with-us {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 677px;
+  top: 249.2px;
+  width: 212.57px;
+}
+.disclaimer {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 679px;
+  top: 292.94px;
+  width: 212.57px;
+}
+.company {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 677px;
+  top: 55px;
+  width: 164.46px;
+  height: 42.86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.other-links {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1122.32px;
+  top: 58.9px;
+  width: 179.33px;
+  height: 42.86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.home {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1122.32px;
+  top: 121.88px;
+  width: 164.46px;
+}
+.about-us2 {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1122.32px;
+  top: 165.62px;
+  width: 164.46px;
+}
+.testimonials {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1124.95px;
+  top: 209.36px;
+  width: 212.57px;
+}
+.contact-us {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1124.95px;
+  top: 253.1px;
+  width: 212.57px;
+}
+.social {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 180px;
+  top: 235px;
+  width: 179.33px;
+  height: 42.86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.---icon--linkedin- {
+  width: 26.24px;
+  height: 27.11px;
+  position: static;
+}
+.group13 {
+  position: absolute;
+  left: 239.76px;
+  top: 295.94px;
+  overflow: visible;
+}
+.mdi-instagram {
+  position: absolute;
+  left: 180px;
+  top: 297.98px;
+  overflow: visible;
+}
+.phone---91-1234567890 {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 179px;
+  top: 127.98px;
+  width: 359.53px;
+}
+.namexyz-gmail-com {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 179px;
+  top: 165.6px;
+  width: 359.53px;
+}
+.contact-us2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 179px;
+  top: 65px;
+  width: 359.53px;
+  height: 42.86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

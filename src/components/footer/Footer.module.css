@@ -1,0 +1,262 @@
+.footer,
+.footer * {
+  box-sizing: border-box;
+}
+.footer {
+  background: rgba(137, 137, 137, 0.5);
+  padding: 55px 179px 55px 179px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 446px;
+  position: relative;
+}
+.columns {
+  display: flex;
+  flex-direction: row;
+  gap: 213px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.col-1 {
+  flex-shrink: 0;
+  width: 321.74px;
+  height: 258.1px;
+  position: static;
+}
+.social {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 83.04px;
+  height: 88.1px;
+  position: absolute;
+  left: 0.65px;
+  top: 170px;
+}
+.social2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 95px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.mdi-instagram {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.---icon--linkedin- {
+  flex-shrink: 0;
+  width: 27.51px;
+  height: 27.1px;
+  position: static;
+}
+.group {
+  position: absolute;
+  left: 66.87px;
+  top: 0px;
+  overflow: visible;
+}
+.contact-us {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 321.74px;
+  height: 126.86px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.contact-us2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 368.09px;
+  height: 42.86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-us3 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.phone---91-1234567890 {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 253.74px;
+}
+.namexyz-gmail-com {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 253.74px;
+}
+.company {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.company2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 168.37px;
+  height: 42.86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.company3 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 168.37px;
+}
+.privacy-policy {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 168.37px;
+}
+.terms---conditions {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 217.63px;
+}
+.advertise-with-us {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 217.63px;
+}
+.disclaimer {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 217.63px;
+}
+.other-links {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.other-links2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 183.6px;
+  height: 42.86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.other-links3 {
+  flex-shrink: 0;
+  width: 220.32px;
+  height: 157.21px;
+  position: static;
+}
+.home {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 62.86px;
+  width: 168.37px;
+}
+.about-us2 {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 106.6px;
+  width: 168.37px;
+}
+.testimonials {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 2.69px;
+  top: 150.34px;
+  width: 217.63px;
+}
+.contact-us4 {
+  color: rgba(255, 255, 255, 0.67);
+  text-align: left;
+  font: 500 20.99px "Montserrat", sans-serif;
+  position: absolute;
+  left: 2.69px;
+  top: 194.08px;
+  width: 217.63px;
+}
+._2023-copyrights--made-with-love {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20.99px "Montserrat", sans-serif;
+  position: relative;
+  width: 384px;
+  height: 78px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

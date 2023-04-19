@@ -1,0 +1,97 @@
+.frame-28,
+.frame-28 * {
+  box-sizing: border-box;
+}
+.frame-28 {
+  width: 1524px;
+  height: 143.9px;
+  z-index: 20;
+  position: relative;
+}
+.group-69 {
+  width: 1560px;
+  height: 143.9px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-68 {
+  width: 1524px;
+  height: 143.9px;
+  position: static;
+}
+.group-67 {
+  width: 1524px;
+  height: 143.9px;
+  position: static;
+}
+.group-66 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.tripverse {
+  color: #FFFFFF;
+  text-align: left;
+  font: 600 32px "Founders Grotesk", sans-serif;
+  position: absolute;
+  left: 203.08px;
+  top: 62.94px;
+  width: 176px;
+  height: 21.12px;
+}
+.group-64 {
+  width: 275.23px;
+  height: 19.86px;
+  position: static;
+}
+.about-us {
+  color:#becaca;
+  text-align: left;
+  font: 700 20px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1010.38px;
+  top: 66.53px;
+  width: 130px;
+  height: 19.43px;
+}
+.contact-us {
+  color: #becaca;
+  text-align: left;
+  font: 700 20px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1160.64px;
+  top: 66.96px;
+  width: 124.98px;
+  height: 19.43px;
+}
+.group-672 {
+  width: 88.97px;
+  height: 19.43px;
+  position: static;
+}
+.denmaz {
+  color: #becaca;
+  text-align: left;
+  font: 700 20px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1317.82px;
+  top: 67.4px;
+  width: 88.97px;
+  height: 19.43px;
+}
+
+.tripverselogo-2 {
+  width: 42.41px;
+  height: 51.65px;
+  position: absolute;
+  left: 132.02px;
+  top: 44.02px;
+}
+.vector {
+  position: absolute;
+  left: 1412.8px;
+  top: 59.09px;
+  overflow: visible;
+}

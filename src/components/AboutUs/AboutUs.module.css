@@ -1,0 +1,257 @@
+.about-us,
+.about-us * {
+  box-sizing: border-box;
+}
+.about-us {
+  background: #161417;
+  padding: 0px 0px 84px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 2680px;
+  position: relative;
+  overflow: hidden;
+}
+.mainaboutus {
+  flex-shrink: 0;
+  width: 1527px;
+  height: 766px;
+  position: static;
+}
+.image-27 {
+  width: 1512px;
+  height: 766px;
+  position: absolute;
+  left: 15px;
+  top: 0px;
+}
+.rectangle-6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 220px "Rokkitt", sans-serif;
+  position: absolute;
+  left: 322px;
+  top: 294px;
+}
+.ourmission {
+  flex-shrink: 0;
+  width: 1241.1px;
+  height: 609.39px;
+  position: static;
+}
+.rectangle-14 {
+  border-radius: 24.3px;
+  position: absolute;
+  left: 142.95px;
+  top: 886px;
+  overflow: visible;
+}
+.our-mission-content-and-image {
+  display: flex;
+  flex-direction: row;
+  gap: 88px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 196.18px;
+  top: 927.2px;
+}
+.ourmissioncontent {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.our-mission {
+  color: #ffffff;
+  text-align: left;
+  font: 700 61.49px "Roboto", sans-serif;
+  position: relative;
+}
+.our-team-is-driven-by-a-passion-for-cultural-exchange-and-understanding--our-objective-is-to-create-an-immersive-online-platform-that-enables-people-to-experience-and-connect-with-different-cultures-and-traditions-worldwide-in-an-affordable-and-accessible-way--our-project-seeks-to-promote-cross-cultural-understanding-and-create-a-sense-of-global-community-through-personalized-and-engaging-experiences-that-include-virtual-tours--immersive-videos--pictures--and-various-events--we-believe-that-our-project-can-benefit-people-who-may-not-have-the-opportunity-to-travel-or-learn-about-different-cultures-due-to-physical--financial--or-other-limitations- {
+  color: #ffffff;
+  text-align: left;
+  font: 500 23.06px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: relative;
+  width: 480.46px;
+}
+.image-34 {
+  border-radius: 51.06px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.67);
+  border-width: 3.27px;
+  flex-shrink: 0;
+  width: 523px;
+  height: 348.88px;
+  position: relative;
+}
+.ourteam {
+  flex-shrink: 0;
+  width: 1241.1px;
+  height: 260.88px;
+  position: static;
+}
+.rectangle-17 {
+  border-radius: 24.3px;
+  position: absolute;
+  left: 142.95px;
+  top: 1615.39px;
+  overflow: visible;
+}
+.ourteamcontent {
+  display: flex;
+  flex-direction: column;
+  gap: 61px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 233.5px;
+  top: 1689.13px;
+}
+.our-team {
+  color: #ffffff;
+  text-align: left;
+  font: 700 61.49px "Roboto", sans-serif;
+  position: relative;
+}
+.people {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.tony {
+  flex-shrink: 0;
+  width: 160.66px;
+  height: 220.66px;
+  position: static;
+}
+.tony-thomas {
+  color: #ffffff;
+  text-align: center;
+  font: 500 23.06px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 33.48px;
+  top: 167.05px;
+  width: 89.1px;
+}
+.image-33 {
+  border-radius: 176.4px;
+  width: 160.66px;
+  height: 153.36px;
+  position: absolute;
+  left: 0px;
+  top: 0.39px;
+}
+.megha {
+  flex-shrink: 0;
+  width: 149.54px;
+  height: 220.5px;
+  position: static;
+}
+.megha-karn {
+  color: #ffffff;
+  text-align: left;
+  font: 500 23.06px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 256.26px;
+  top: 166.97px;
+  width: 71.1px;
+}
+.img_20220721_153551-2 {
+  border-radius: 396.08px;
+  width: 149.54px;
+  height: 148.71px;
+  position: absolute;
+  left: 216.66px;
+  top: 0.47px;
+}
+.aryan {
+  flex-shrink: 0;
+  width: 155.7px;
+  height: 221.4px;
+  position: static;
+}
+.aryan-gupta {
+  color: #ffffff;
+  text-align: left;
+  font: 500 23.06px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 467.21px;
+  top: 167.42px;
+  width: 66.6px;
+}
+._356059-1 {
+  border-radius: 385.65px;
+  width: 155.7px;
+  height: 148.5px;
+  position: absolute;
+  left: 422.21px;
+  top: 0.02px;
+}
+.deepak {
+  flex-shrink: 0;
+  width: 149.4px;
+  height: 221.44px;
+  position: static;
+}
+.deepak-thappa {
+  color: #ffffff;
+  text-align: left;
+  font: 500 23.06px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 662.76px;
+  top: 167.44px;
+  width: 88px;
+}
+.image-32 {
+  border-radius: 74.7px;
+  width: 149.4px;
+  height: 149.4px;
+  position: absolute;
+  left: 633.91px;
+  top: 0px;
+}
+.divyansh {
+  flex-shrink: 0;
+  width: 149.4px;
+  height: 221.4px;
+  position: static;
+}
+.divyansh-kaushal {
+  color: #ffffff;
+  text-align: center;
+  font: 500 23.06px "Roboto", sans-serif;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 869.91px;
+  top: 167.42px;
+  width: 101.7px;
+}
+.image-31 {
+  border-radius: 147.15px;
+  width: 149.4px;
+  height: 149.4px;
+  position: absolute;
+  left: 839.31px;
+  top: 0.02px;
+}
